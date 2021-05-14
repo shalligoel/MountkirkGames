@@ -4,7 +4,7 @@ A WebGL maze game built with Three.js and Box2dWeb.
 Credits & Source from: https://github.com/wwwtyro/Astray
 
 ### Launching
-Create a custom VPC with three subnets, one in usa, asia and Europe. Create appropriate firewall rules.
+Create a custom VPC with three subnets, one in usa, asia and Europe. Create appropriate firewall rules for port 22, 80 and 5000.
 
 1. Provision a Google Compute Engine (GCE) with Apache Web Server and Git Installed using below startup script. <br/><br/>
 apt update <br/>
